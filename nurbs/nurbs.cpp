@@ -29,7 +29,6 @@ Last changed: 2 Feb, 2010
 #include <cstring>
 #include <nurbsS.h>
 #include "integrate.h"
-
 #include <malloc.h>
 //-----------------------------------------------------------------------------
 /*!
